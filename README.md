@@ -1,1 +1,0 @@
-# web-kaihatu-kadai
