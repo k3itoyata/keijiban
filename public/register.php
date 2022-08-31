@@ -5,7 +5,7 @@ require_once "../classes/UserLogic.php";
 //エラー
 $err = [];
 
-
+//test
 //バリデーション
 if (!$username = filter_input(INPUT_POST, "username")) {
     $err[] = "ユーザー名を記入ください。";
